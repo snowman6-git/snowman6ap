@@ -1,0 +1,8 @@
+a=100
+b=40
+printf $a+
+printf $b=
+
+let num3=$a+$b
+printf $num3
+echo
